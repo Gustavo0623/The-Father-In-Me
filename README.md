@@ -1,36 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is the codebase for the official website of The Father In Me INC.
 
-## Getting Started
+# The Father In Me
 
-First, run the development server:
+## About 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+"The Father In Me," established in 2020 by Antoine Seymore, serves as a crucial outlet for young individuals aged 5 to 25. Our organization was founded with a mission to mentor and provide a supportive environment for youth while supplying essential resources to our community. We strongly believe in the concept of a village, recognizing that our youth needs our guidance now more than ever.Our programs encompass a wide range of subjects, including financial literacy, culinary arts, real estate, driving skills, coding, fashion, film, music, and auto mechanics. By offering such diverse opportunities, we aim to expose our youth to different possibilities and empower them with the skills they need to succeed.We are dedicated to saving lives and enhancing the education of our community. To achieve this, we actively engage with our youth through house visits and regular school attendance. Building genuine and strong relationships with our young members is a priority. This approach ensures that they enter the community with a clearer vision and understanding of life.In addition to practical skills, we focus on equipping our young people with social skills and addressing important topics such as mental health and parenting through our 101 parenting sessions. "The Father In Me" is committed to giving children options and broadening their horizons, fostering a positive and enriching environment for their personal development.
