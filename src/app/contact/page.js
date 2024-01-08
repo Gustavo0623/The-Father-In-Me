@@ -1,6 +1,6 @@
 export default function Contact () {
 
     return(
-        <h1 className="font-bold text-2xl">Contact</h1>
+        <h1 className="font-bold text-center text-4xl py-4">Contact</h1>
     )
 }

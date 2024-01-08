@@ -1,6 +1,6 @@
 export default function Registration () {
 
     return(
-        <h1 className="font-bold text-2xl">Registration</h1>
+        <h1 className="font-bold text-center text-4xl py-4">Registration</h1>
     )
 }
